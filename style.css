@@ -7,4 +7,4 @@ head,footer{background-color: #fffafa; color: #ffffff;text-align:center; font-si
 main{background-color: #faf0e6; text-align:justify; font-size:18px;}
     #sorvete.jpg{width: 5%; height: 5%;}
     #lista{display:inline-block;}
-.primeiroparagrafo{border:#000000}
+.primeiroparagrafo{border: 2px black;}
